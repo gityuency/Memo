@@ -38,3 +38,8 @@
  No matter how the sturdy bag is, the long term use will be broken.
  */
 
+/*
+ 这不是钢笔,是巧克力,能吃的
+ it's not a pen, it's chocolate, it can be eaten.
+ これはペンじゃなくて、チュコレートです、食べられましすよ。
+ */
