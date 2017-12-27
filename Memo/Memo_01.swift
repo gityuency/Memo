@@ -104,7 +104,11 @@
  if I have money, I'll go on a trip.
  */
 
-
+/*
+ 到了10点,我就想出去
+ 10時になったら、出かけましょう。
+ At 10, I'd like to go out.
+ */
 
 
 
