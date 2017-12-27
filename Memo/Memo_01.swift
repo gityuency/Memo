@@ -169,3 +169,9 @@
  子供たちに早く寝るように言いました。
  I ask the children to go to bed early.
  */
+
+/*
+ 很抱歉在您正在忙的时候打扰了,我有件事情想请您帮个忙.
+ お忙しいところ、すみません。ちょっとお願いがあるですが。
+ I'm sorry to bother you while you are busy, I want your help.
+ */
