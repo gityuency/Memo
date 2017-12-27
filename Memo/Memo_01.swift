@@ -122,7 +122,11 @@
  The so-called PC means the meaning of a personal computer.
  */
 
-
+/*
+ 所谓"禁烟"就是不许吸烟的意思
+ 禁煙というのは、タバコを吸ってはいけないということです.
+ The so-called "ban on smoking" means no smoking.
+ */
 
 
 
