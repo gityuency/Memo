@@ -128,5 +128,10 @@
  The so-called "ban on smoking" means no smoking.
  */
 
+/*
+ 所谓的"违法停车"是指把车停在了不允许停车的场所.
+ 駐車違反というのは車を止めてはいけない場所に車を止めたということです。
+ The so-called "illegal parking" means parking in a place where parking is not allowed.
+ */
 
 
