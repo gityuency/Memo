@@ -68,8 +68,17 @@
  several bicycles have been stopped in front of the apartment.
  */
 
+/*
+ 服药之后,就康复了
+ 薬を飲んだら、元気になりました
+ After taking the medicine, he recorvered.
+ */
 
-
+/*
+ 更换窗帘之后,房间就变得明亮了
+ カーテンを変えたら、部屋が明るくなった。
+ After the curtain was replaced, the room become brighter.
+ */
 
 
 
