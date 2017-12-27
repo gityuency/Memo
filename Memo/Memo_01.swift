@@ -145,3 +145,9 @@
  田中さんがもうすぐ会社を辞めるという噂を聞きました。
  A rumor was that Mr. Tanaka was going to resign very soon.
  */
+
+/*
+ 卡莉娜的意见是,研究室最好禁烟.
+ カリナさんは、研究室は禁煙にしたほうがいいという意見を持っている。
+ Carina's opinion is that the searching room is better off smoking.
+ */
