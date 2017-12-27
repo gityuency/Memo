@@ -205,3 +205,10 @@
  今晩は外で食事をすることにしよう！
  Let's eat out tonight!
  */
+
+/*
+ 我每周日晚一般在外面吃饭.
+ 毎週日曜日の夜は外で食事をすることにしている.
+ I usually eat out every Sunday night.
+ */
+
