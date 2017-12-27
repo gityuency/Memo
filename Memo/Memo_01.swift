@@ -218,3 +218,8 @@
  Because I'm losing weight I never eat sweets and pastries.
  */
 
+/*
+ 已经决定了我下个月去美国出差.
+ 来月アメリカへ出張することになりました。
+ It has been decided that I will go to the United States on a business trip next month.
+ */
