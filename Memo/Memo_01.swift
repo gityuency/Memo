@@ -92,7 +92,11 @@
  Open the bag and find that the wallet is gone.
  */
 
-
+/*
+ 尝了50年的陈酿,发现味道还是不错的
+ 50年前の古いお酒を飲んでみたら、美味しかった。
+ After 50 years of aging, it was a good smell.
+ */
 
 
 
