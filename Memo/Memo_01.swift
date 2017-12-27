@@ -80,7 +80,11 @@
  After the curtain was replaced, the room become brighter.
  */
 
-
+/*
+ 回到家,发现猫不在了
+ 家に帰ったら、猫がいなっかた。
+ Come home and find that the cat is not here.
+ */
 
 
 
