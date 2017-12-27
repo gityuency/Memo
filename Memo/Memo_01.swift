@@ -181,3 +181,9 @@
  すみません、このベンフレットをコピーさせてもらえませんか？
  Excuse me, may I copy this introduction?
  */
+
+/*
+ 能否让我在星期一的店长会上汇报?
+ 月曜日の店長会議で報告させていただけませんか？
+ May I report it at the meeting of the shop chief on Monday?
+ */
