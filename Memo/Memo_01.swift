@@ -194,3 +194,9 @@
  May we have a visit to the factory?
  */
 
+/*
+ 我决定明年结婚.
+ 来年結婚することにしました。
+ I decided to get married next year.
+ */
+
