@@ -116,6 +116,13 @@
  3K refers to the so-called dirty work, tired work, dangerous work meaning.
  */
 
+/*
+ 所谓的 PC 就是指个人电脑的意思。
+ PCというのはパソコンのことです。
+ The so-called PC means the meaning of a personal computer.
+ */
+
+
 
 
 
