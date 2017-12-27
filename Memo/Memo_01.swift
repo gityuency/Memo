@@ -212,3 +212,9 @@
  I usually eat out every Sunday night.
  */
 
+/*
+ 因为在减肥,所以我一直不吃糖果糕点。
+ ダイエットしているので、お菓子を食べないことにしている。
+ Because I'm losing weight I never eat sweets and pastries.
+ */
+
