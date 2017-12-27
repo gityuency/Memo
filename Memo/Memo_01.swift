@@ -98,7 +98,11 @@
  After 50 years of aging, it was a good smell.
  */
 
-
+/*
+ 如果有钱我就去旅行
+ お金があったら、旅行します。
+ if I have money, I'll go on a trip.
+ */
 
 
 
