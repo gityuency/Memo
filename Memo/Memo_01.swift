@@ -110,7 +110,11 @@
  At 10, I'd like to go out.
  */
 
-
+/*
+ 所谓 3K 就是指脏活,累活,危险活的意思
+ 3Kというのは汚い、きつい、危険な仕事のことだ。
+ 3K refers to the so-called dirty work, tired work, dangerous work meaning.
+ */
 
 
 
