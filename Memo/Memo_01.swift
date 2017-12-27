@@ -200,3 +200,8 @@
  I decided to get married next year.
  */
 
+/*
+ 咱们今晚在外面吃饭吧!
+ 今晩は外で食事をすることにしよう！
+ Let's eat out tonight!
+ */
