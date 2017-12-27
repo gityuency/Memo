@@ -175,3 +175,9 @@
  お忙しいところ、すみません。ちょっとお願いがあるですが。
  I'm sorry to bother you while you are busy, I want your help.
  */
+
+/*
+ 对不起,能让我复印一下这本简介吗?
+ すみません、このベンフレットをコピーさせてもらえませんか？
+ Excuse me, may I copy this introduction?
+ */
