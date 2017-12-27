@@ -140,3 +140,8 @@
  There used to a sea, you know?
  */
 
+/*
+ 听到了传言说田中先生很快要辞职了.
+ 田中さんがもうすぐ会社を辞めるという噂を聞きました。
+ A rumor was that Mr. Tanaka was going to resign very soon.
+ */
