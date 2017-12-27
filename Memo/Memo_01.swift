@@ -187,3 +187,10 @@
  月曜日の店長会議で報告させていただけませんか？
  May I report it at the meeting of the shop chief on Monday?
  */
+
+/*
+ 能否让我们参观一下工厂?
+ 一度、工場を見学させていただけないでしょうか？
+ May we have a visit to the factory?
+ */
+
