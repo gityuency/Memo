@@ -223,3 +223,9 @@
  来月アメリカへ出張することになりました。
  It has been decided that I will go to the United States on a business trip next month.
  */
+
+/*
+ 大概会派田中先生去中国吧.
+ 中国へは田中さんが行くことになるでしょう。
+ Maybe we'll send Mr. Tanaka to china.
+ */
