@@ -163,3 +163,9 @@
  この仕事を今日中やるように頼まれました。
  I was told to finish this work today.
  */
+
+/*
+ 我叫孩子们早点睡觉.
+ 子供たちに早く寝るように言いました。
+ I ask the children to go to bed early.
+ */
