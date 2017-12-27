@@ -50,6 +50,33 @@
  I have to take the plane at 3, so, I'm hurry.
  */
 
+/*
+ 他要去日本留学,所以,现在在学日语.
+ 彼は日本に留学します、それで今日本語を勉強しているのです。
+ He is going to study in Japan, so he is studying Japanese now.
+ */
+
+/*
+ 这个报告不是一个人写的
+ このレポートは一人で書いたのではありません。
+ This report is not written by one person
+ */
+
+/*
+ 公寓前面停了好几辆自行车
+ マンションの前に自転車何台も止まっています
+ several bicycles have been stopped in front of the apartment.
+ */
+
+
+
+
+
+
+
+
+
+
 
 
 
