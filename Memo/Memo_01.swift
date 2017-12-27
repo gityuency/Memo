@@ -134,4 +134,9 @@
  The so-called "illegal parking" means parking in a place where parking is not allowed.
  */
 
+/*
+ 这里曾经是大海,你知道吗?
+ 昔ここは海だったという話を知っていますか？
+ There used to a sea, you know?
+ */
 
