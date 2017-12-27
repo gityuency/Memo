@@ -151,3 +151,9 @@
  カリナさんは、研究室は禁煙にしたほうがいいという意見を持っている。
  Carina's opinion is that the searching room is better off smoking.
  */
+
+/*
+ 我提醒了学生不要在图书馆里吃东西.
+ 学生に図書館で物を食べないように注意しました。
+ I remainded the students not to eat in the library.
+ */
