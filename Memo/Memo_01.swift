@@ -157,3 +157,9 @@
  学生に図書館で物を食べないように注意しました。
  I remainded the students not to eat in the library.
  */
+
+/*
+ 叫我今天之内把这个工作做完.
+ この仕事を今日中やるように頼まれました。
+ I was told to finish this work today.
+ */
