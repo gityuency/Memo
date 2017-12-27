@@ -86,6 +86,11 @@
  Come home and find that the cat is not here.
  */
 
+/*
+ 打开提包,发现钱包没了
+ 鞄を開けたら、財布がなくなっていた。
+ Open the bag and find that the wallet is gone.
+ */
 
 
 
