@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     
     
     let listArray = [
-        ["CloserViewController": "闭包"],
+        ["CloserViewController": "闭包_数组排序的例子"],
         ]
     
     override func viewDidLoad() {
