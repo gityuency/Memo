@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         ["CloserRecicleViewController": "闭包循环引用"],
         ["": ""],
         ["DIViewController": "Swift 构造函数"],
-        ["": ""],
+        ["Swift_DI_Con_ViewController": "关于构造函数自己的练习"],
         ["": ""],
         ["": ""],
         ]
