@@ -14,13 +14,13 @@
 		1CC435411FF2567A00DE29A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CC4353F1FF2567A00DE29A9 /* LaunchScreen.storyboard */; };
 		1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435481FF256F700DE29A9 /* Memo_01.swift */; };
 		1CC4354D1FF39E1C00DE29A9 /* HomeWork_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */; };
-		1CC435791FF4896F00DE29A9 /* Closer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435781FF4896F00DE29A9 /* Closer.swift */; };
 		1CC435801FF4947900DE29A9 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357B1FF4947900DE29A9 /* Bundle+Extension.swift */; };
 		1CC435811FF4947900DE29A9 /* PrintConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357C1FF4947900DE29A9 /* PrintConfig.swift */; };
 		1CC435821FF4947900DE29A9 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357D1FF4947900DE29A9 /* UIColor+Extension.swift */; };
 		1CC435831FF4947900DE29A9 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357E1FF4947900DE29A9 /* UIImage+Extension.swift */; };
 		1CC435841FF4947900DE29A9 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357F1FF4947900DE29A9 /* UIView+Extension.swift */; };
 		1CC435861FF494C700DE29A9 /* CloserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435851FF494C700DE29A9 /* CloserViewController.swift */; };
+		1CC4358A1FF4A19200DE29A9 /* CloserViewController_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435891FF4A19200DE29A9 /* CloserViewController_2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,13 +33,13 @@
 		1CC435421FF2567A00DE29A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1CC435481FF256F700DE29A9 /* Memo_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_01.swift; sourceTree = "<group>"; };
 		1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork_01.swift; sourceTree = "<group>"; };
-		1CC435781FF4896F00DE29A9 /* Closer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Closer.swift; sourceTree = "<group>"; };
 		1CC4357B1FF4947900DE29A9 /* Bundle+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle+Extension.swift"; sourceTree = "<group>"; };
 		1CC4357C1FF4947900DE29A9 /* PrintConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrintConfig.swift; sourceTree = "<group>"; };
 		1CC4357D1FF4947900DE29A9 /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
 		1CC4357E1FF4947900DE29A9 /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
 		1CC4357F1FF4947900DE29A9 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		1CC435851FF494C700DE29A9 /* CloserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController.swift; sourceTree = "<group>"; };
+		1CC435891FF4A19200DE29A9 /* CloserViewController_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,8 +117,8 @@
 		1CC435881FF4960600DE29A9 /* CloserViewController */ = {
 			isa = PBXGroup;
 			children = (
-				1CC435781FF4896F00DE29A9 /* Closer.swift */,
 				1CC435851FF494C700DE29A9 /* CloserViewController.swift */,
+				1CC435891FF4A19200DE29A9 /* CloserViewController_2.swift */,
 			);
 			path = CloserViewController;
 			sourceTree = "<group>";
@@ -195,13 +195,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1CC435791FF4896F00DE29A9 /* Closer.swift in Sources */,
 				1CC435801FF4947900DE29A9 /* Bundle+Extension.swift in Sources */,
 				1CC4354D1FF39E1C00DE29A9 /* HomeWork_01.swift in Sources */,
 				1CC435831FF4947900DE29A9 /* UIImage+Extension.swift in Sources */,
 				1CC435811FF4947900DE29A9 /* PrintConfig.swift in Sources */,
 				1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */,
 				1CC435391FF2567A00DE29A9 /* ViewController.swift in Sources */,
+				1CC4358A1FF4A19200DE29A9 /* CloserViewController_2.swift in Sources */,
 				1CC435861FF494C700DE29A9 /* CloserViewController.swift in Sources */,
 				1CC435371FF2567A00DE29A9 /* AppDelegate.swift in Sources */,
 				1CC435841FF4947900DE29A9 /* UIView+Extension.swift in Sources */,
