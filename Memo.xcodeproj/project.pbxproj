@@ -14,6 +14,7 @@
 		1CC435411FF2567A00DE29A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CC4353F1FF2567A00DE29A9 /* LaunchScreen.storyboard */; };
 		1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435481FF256F700DE29A9 /* Memo_01.swift */; };
 		1CC4354D1FF39E1C00DE29A9 /* HomeWork_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */; };
+		1CC435791FF4896F00DE29A9 /* Closer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435781FF4896F00DE29A9 /* Closer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1CC435421FF2567A00DE29A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1CC435481FF256F700DE29A9 /* Memo_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_01.swift; sourceTree = "<group>"; };
 		1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork_01.swift; sourceTree = "<group>"; };
+		1CC435781FF4896F00DE29A9 /* Closer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Closer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		1CC435751FF4888900DE29A9 /* Swift */ = {
 			isa = PBXGroup;
 			children = (
+				1CC435781FF4896F00DE29A9 /* Closer.swift */,
 			);
 			path = Swift;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CC435791FF4896F00DE29A9 /* Closer.swift in Sources */,
 				1CC4354D1FF39E1C00DE29A9 /* HomeWork_01.swift in Sources */,
 				1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */,
 				1CC435391FF2567A00DE29A9 /* ViewController.swift in Sources */,
