@@ -58,16 +58,32 @@
 		1CC435351FF2567A00DE29A9 /* Memo */ = {
 			isa = PBXGroup;
 			children = (
+				1CC435751FF4888900DE29A9 /* Swift */,
+				1CC435741FF4887B00DE29A9 /* Japanese */,
 				1CC435361FF2567A00DE29A9 /* AppDelegate.swift */,
 				1CC435381FF2567A00DE29A9 /* ViewController.swift */,
-				1CC435481FF256F700DE29A9 /* Memo_01.swift */,
-				1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */,
 				1CC4353A1FF2567A00DE29A9 /* Main.storyboard */,
 				1CC4353D1FF2567A00DE29A9 /* Assets.xcassets */,
 				1CC4353F1FF2567A00DE29A9 /* LaunchScreen.storyboard */,
 				1CC435421FF2567A00DE29A9 /* Info.plist */,
 			);
 			path = Memo;
+			sourceTree = "<group>";
+		};
+		1CC435741FF4887B00DE29A9 /* Japanese */ = {
+			isa = PBXGroup;
+			children = (
+				1CC435481FF256F700DE29A9 /* Memo_01.swift */,
+				1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */,
+			);
+			path = Japanese;
+			sourceTree = "<group>";
+		};
+		1CC435751FF4888900DE29A9 /* Swift */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Swift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
