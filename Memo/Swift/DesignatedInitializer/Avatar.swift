@@ -17,10 +17,27 @@ class Avatar {
     var name: String
     
     ///血量
-    var life = 100
+    var life = 100 {
+        didSet{
+            if self.life <= 0 {
+                self.isAlive = false
+            }
+            if self.life > 100 {
+                self.life = 100
+            }
+        }
+    }
 
     ///是否存活
     var isAlive: Bool = true
+    
+    
+    ///描述当前的对象
+    var description: String {
+        return "我是 Avatar \(name)"
+    }
+    
+    
     
     /// 父类的超级隐藏属性 子类无法继承这个属性, 这个属性已经赋值, 在子类对象里面都会有这个东西存在, 只是无法访问, 子类继承, 只是无法访问.
     private var bug = "父类的 private 属性"

@@ -37,16 +37,55 @@ class DIViewController: UIViewController {
         
         
         //Swift 多态 示例代码
-        swiftPolymorphic()
+        //swiftPolymorphic()
         
         
-        
+        //Swift 重写 属性重写
+        swiftOverride()
         
         
         
         
         
     }
+    
+    
+    
+    
+    //MARK: - Swift 重写 示例代码
+    func swiftOverride() {
+        
+        let player1 = Magician(name: "哈利波特")
+        
+        let player2 = Warrior(name: "德玛西亚")
+        
+        let zombie = Zombie(name: "路障头僵尸")
+        
+        let monster = Monster(name: "怪兽金古桥")
+        
+        print(player1.description)
+        print(player2.description)
+        print(zombie.description)
+        print(monster.description)
+
+        print("***")
+        
+        let avatarArray: [Avatar] = [player1, player2, zombie, monster]
+        for avatar in avatarArray {
+            print(avatar.description)  //在实际使用的时候, 具体的方法, 具体的属性, 是根据具体的对象来进行调用的, 多态 + 重写
+        }
+
+        print("***")
+        
+        monster.attack(user: player1, amount: 20)
+        monster.attack(user: player2, amount: 20)
+
+        print("\(player1.life)  \(player2.life)")
+
+        
+    }
+    
+    
     
     //MARK: - Swift 多态 示例代码
     func swiftPolymorphic() {
@@ -64,7 +103,7 @@ class DIViewController: UIViewController {
         printbaisicdInfo(avatar: player2)
         printbaisicdInfo(avatar: zombie)
         printbaisicdInfo(avatar: monster)
-
+        
         
         // 数组放了东西
         let avatarArray: [Avatar] = [player1, player2, zombie, monster]
@@ -75,7 +114,7 @@ class DIViewController: UIViewController {
         // 多态治疗??
         player1.heal(user: player2)
         player1.heal(user: player1)
-
+        
     }
     
     /// 获得角色信息
