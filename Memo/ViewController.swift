@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         ["CloserViewController_4_Father": "闭包传值4步走"],
         ["CloserRecicleViewController": "闭包循环引用"],
         ["": ""],
-        ["": ""],
+        ["DIViewController": "Swift 构造函数"],
         ["": ""],
         ["": ""],
         ["": ""],
