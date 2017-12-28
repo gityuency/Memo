@@ -12,7 +12,7 @@ import Foundation
 
 /// 这个是游戏里面的角色. 各种角色都继承这个类
 class Avatar {
-
+    
     ///名字
     var name: String
     
@@ -27,7 +27,7 @@ class Avatar {
             }
         }
     }
-
+    
     ///是否存活
     var isAlive: Bool = true
     
@@ -60,7 +60,12 @@ class Avatar {
     }
     
     
-    
+    /// 便利的构造函数 构造函数只是提供一种初始化的便利方法, 跟参数多少无关, 如果这个函数被设计成为 便利构造函数,  最终会调用自己的指定的构造函数!
+    /// 只有指定的构造函数才能调用 super.init 构造函数, 便利构造函数无法调用 super.init
+    convenience init(firstName: String, lastName: String) {
+        
+        self.init(name: "\(firstName) \(lastName)")
+    }
     
     
 }

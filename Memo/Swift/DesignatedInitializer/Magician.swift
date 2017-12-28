@@ -14,11 +14,19 @@ final class Magician: User {
     
     /// 魔法值
     var magic = 100
-
+    
     /* 在子类中重新定义来覆盖原有的逻辑 */
     /// 描述当前的对象  这也是一种 重写
     override var description: String {
         return "我是 Magician \(name)"
+    }
+    
+    
+    /// 这是一个重写的构造函数
+    override init(name: String, group: String) {
+        
+        
+        super.init(name: name, group: "魔法师的群组还没有动作!")
     }
     
     
@@ -28,5 +36,5 @@ final class Magician: User {
         user.life += 10
     }
     
-
+    
 }

@@ -30,7 +30,7 @@ final class Warrior: User {
     
     /* 父类的属性, 必须通过父类的构造函数进行构造 */
     /// 子类的构造函数同时涉及到父类的属性的话, Swift 使用两段式构造
-    init(name: String, group: String, weapon: String) {
+    init(name: String, group: String, weapon: String = "剑") {
         
         // 第一步 先初始化子类的属性
         self.weapon = weapon

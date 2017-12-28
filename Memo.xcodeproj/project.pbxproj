@@ -40,6 +40,7 @@
 		1CC435AD1FF4D98B00DE29A9 /* Monster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435AC1FF4D98B00DE29A9 /* Monster.swift */; };
 		1CC435AF1FF4D9F400DE29A9 /* Zombie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435AE1FF4D9F400DE29A9 /* Zombie.swift */; };
 		1CC435B21FF4DA7700DE29A9 /* Swift多态_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435B11FF4DA7700DE29A9 /* Swift多态_1.png */; };
+		1CC435B41FF4ED2E00DE29A9 /* Swift构造函数.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435B31FF4ED2E00DE29A9 /* Swift构造函数.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		1CC435AC1FF4D98B00DE29A9 /* Monster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Monster.swift; sourceTree = "<group>"; };
 		1CC435AE1FF4D9F400DE29A9 /* Zombie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zombie.swift; sourceTree = "<group>"; };
 		1CC435B11FF4DA7700DE29A9 /* Swift多态_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift多态_1.png"; sourceTree = "<group>"; };
+		1CC435B31FF4ED2E00DE29A9 /* Swift构造函数.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift构造函数.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +194,7 @@
 			isa = PBXGroup;
 			children = (
 				1CC435B11FF4DA7700DE29A9 /* Swift多态_1.png */,
+				1CC435B31FF4ED2E00DE29A9 /* Swift构造函数.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			files = (
 				1CC435411FF2567A00DE29A9 /* LaunchScreen.storyboard in Resources */,
 				1CC4353E1FF2567A00DE29A9 /* Assets.xcassets in Resources */,
+				1CC435B41FF4ED2E00DE29A9 /* Swift构造函数.png in Resources */,
 				1CC4353C1FF2567A00DE29A9 /* Main.storyboard in Resources */,
 				1CC435961FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib in Resources */,
 				1CC4359A1FF4CAA400DE29A9 /* CloserViewController_4_Son.xib in Resources */,
