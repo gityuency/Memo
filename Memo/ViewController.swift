@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     let listArray = [
         ["CloserViewController": "闭包_数组排序的例子"],
         ["CloserViewController_2": "闭包作为函数参数"],
-        ["": ""],
+        ["CloserViewController_3_Father": "闭包在控制器之间传值"],
         ["": ""],
         ["": ""],
         ["": ""],
