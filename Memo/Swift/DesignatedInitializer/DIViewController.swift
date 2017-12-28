@@ -41,7 +41,11 @@ class DIViewController: UIViewController {
         
         
         //Swift 重写 属性重写
-        swiftOverride()
+        //swiftOverride()
+        
+        
+        //Swift 两段式构造 示例代码
+        swiftTwoInit()
         
         
         
@@ -49,6 +53,18 @@ class DIViewController: UIViewController {
         
     }
     
+    
+    
+    //MARK: - Swift 两段式构造 示例代码
+    func swiftTwoInit() {
+    
+        let user = User(name: "德莱厄斯", group: "诺克萨斯")
+    
+        let zhanshi = Warrior(name: "无极剑圣", group: "艾欧尼亚", weapon: "刀")
+        
+        
+        
+    }
     
     
     
