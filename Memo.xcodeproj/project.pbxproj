@@ -25,6 +25,13 @@
 		1CC4358E1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4358D1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift */; };
 		1CC435901FF4C0B700DE29A9 /* CloserViewController_3_Son.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC4358F1FF4C0B700DE29A9 /* CloserViewController_3_Son.xib */; };
 		1CC435921FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435911FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib */; };
+		1CC435951FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435931FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift */; };
+		1CC435961FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435941FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib */; };
+		1CC435991FF4CAA400DE29A9 /* CloserViewController_4_Son.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435971FF4CAA400DE29A9 /* CloserViewController_4_Son.swift */; };
+		1CC4359A1FF4CAA400DE29A9 /* CloserViewController_4_Son.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435981FF4CAA400DE29A9 /* CloserViewController_4_Son.xib */; };
+		1CC4359C1FF4CD9100DE29A9 /* CloserEscapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4359B1FF4CD9100DE29A9 /* CloserEscapeViewController.swift */; };
+		1CC4359F1FF4D09000DE29A9 /* CloserRecicleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4359D1FF4D09000DE29A9 /* CloserRecicleViewController.swift */; };
+		1CC435A01FF4D09000DE29A9 /* CloserRecicleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC4359E1FF4D09000DE29A9 /* CloserRecicleViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +55,13 @@
 		1CC4358D1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_3_Son.swift; sourceTree = "<group>"; };
 		1CC4358F1FF4C0B700DE29A9 /* CloserViewController_3_Son.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserViewController_3_Son.xib; sourceTree = "<group>"; };
 		1CC435911FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserViewController_3_Father.xib; sourceTree = "<group>"; };
+		1CC435931FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_4_Father.swift; sourceTree = "<group>"; };
+		1CC435941FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserViewController_4_Father.xib; sourceTree = "<group>"; };
+		1CC435971FF4CAA400DE29A9 /* CloserViewController_4_Son.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_4_Son.swift; sourceTree = "<group>"; };
+		1CC435981FF4CAA400DE29A9 /* CloserViewController_4_Son.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserViewController_4_Son.xib; sourceTree = "<group>"; };
+		1CC4359B1FF4CD9100DE29A9 /* CloserEscapeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserEscapeViewController.swift; sourceTree = "<group>"; };
+		1CC4359D1FF4D09000DE29A9 /* CloserRecicleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserRecicleViewController.swift; sourceTree = "<group>"; };
+		1CC4359E1FF4D09000DE29A9 /* CloserRecicleViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserRecicleViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +145,13 @@
 				1CC435911FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib */,
 				1CC4358D1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift */,
 				1CC4358F1FF4C0B700DE29A9 /* CloserViewController_3_Son.xib */,
+				1CC4359B1FF4CD9100DE29A9 /* CloserEscapeViewController.swift */,
+				1CC435931FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift */,
+				1CC435941FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib */,
+				1CC435971FF4CAA400DE29A9 /* CloserViewController_4_Son.swift */,
+				1CC435981FF4CAA400DE29A9 /* CloserViewController_4_Son.xib */,
+				1CC4359D1FF4D09000DE29A9 /* CloserRecicleViewController.swift */,
+				1CC4359E1FF4D09000DE29A9 /* CloserRecicleViewController.xib */,
 			);
 			path = CloserViewController;
 			sourceTree = "<group>";
@@ -197,7 +218,10 @@
 				1CC435411FF2567A00DE29A9 /* LaunchScreen.storyboard in Resources */,
 				1CC4353E1FF2567A00DE29A9 /* Assets.xcassets in Resources */,
 				1CC4353C1FF2567A00DE29A9 /* Main.storyboard in Resources */,
+				1CC435961FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib in Resources */,
+				1CC4359A1FF4CAA400DE29A9 /* CloserViewController_4_Son.xib in Resources */,
 				1CC435901FF4C0B700DE29A9 /* CloserViewController_3_Son.xib in Resources */,
+				1CC435A01FF4D09000DE29A9 /* CloserRecicleViewController.xib in Resources */,
 				1CC435921FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -213,8 +237,11 @@
 				1CC4354D1FF39E1C00DE29A9 /* HomeWork_01.swift in Sources */,
 				1CC435831FF4947900DE29A9 /* UIImage+Extension.swift in Sources */,
 				1CC435811FF4947900DE29A9 /* PrintConfig.swift in Sources */,
+				1CC435991FF4CAA400DE29A9 /* CloserViewController_4_Son.swift in Sources */,
 				1CC4358C1FF4BF9600DE29A9 /* CloserViewController_3_Father.swift in Sources */,
+				1CC4359C1FF4CD9100DE29A9 /* CloserEscapeViewController.swift in Sources */,
 				1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */,
+				1CC4359F1FF4D09000DE29A9 /* CloserRecicleViewController.swift in Sources */,
 				1CC435391FF2567A00DE29A9 /* ViewController.swift in Sources */,
 				1CC4358A1FF4A19200DE29A9 /* CloserViewController_2.swift in Sources */,
 				1CC435861FF494C700DE29A9 /* CloserViewController.swift in Sources */,
@@ -222,6 +249,7 @@
 				1CC435841FF4947900DE29A9 /* UIView+Extension.swift in Sources */,
 				1CC435821FF4947900DE29A9 /* UIColor+Extension.swift in Sources */,
 				1CC4358E1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift in Sources */,
+				1CC435951FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
