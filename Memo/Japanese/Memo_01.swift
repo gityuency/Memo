@@ -307,3 +307,9 @@
  このケーキは美味しそうですね。
  This cake looks very testy.
  */
+
+/*
+ 看样子孩子们玩的很愉快.
+ 子供たちが楽しそうに遊んでいます。
+ It looks like the children have a good time.
+ */
