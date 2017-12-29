@@ -301,3 +301,9 @@
  金花さんの隣にいる学生は真面目そうですね。
  The student sitting next to JinHua looked very serious.
  */
+
+/*
+ 这蛋糕看样子很好吃.
+ このケーキは美味しそうですね。
+ This cake looks very testy.
+ */
