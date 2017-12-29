@@ -291,5 +291,7 @@
  */
 
 /*
- 
+ 看样子快要下雨了,我不洗衣服.
+ 雨が降りそうな時は、洗濯しません。
+ It looks like going to rain, I don't wash my clothes.
  */
