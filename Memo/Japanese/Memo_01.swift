@@ -248,3 +248,9 @@
  Our family usually doesn't turn on TV after 9.
  */
 
+/*
+ 我希望儿子成为一个和蔼的人.
+ 私は息子に優しい人になってほしいです。
+ I want my son to be a kind person.
+ */
+
