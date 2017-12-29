@@ -295,3 +295,9 @@
  雨が降りそうな時は、洗濯しません。
  It looks like going to rain, I don't wash my clothes.
  */
+
+/*
+ 坐在金花旁边的学生看样子很认真.
+ 金花さんの隣にいる学生は真面目そうですね。
+ The student sitting next to JinHua looked very serious.
+ */
