@@ -283,3 +283,13 @@
  明日は雨が降らないでほしい。
  I hope it doesn't rain tomorrow.
  */
+
+/*
+ 米勒先生,你衬衣扣子快要掉下来了.
+ ミラーさん、シャツのボダンが取れそうですよ。
+ Mr. Miller, your shirt button is going to fall.
+ */
+
+/*
+ 
+ */
