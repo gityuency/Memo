@@ -254,3 +254,8 @@
  I want my son to be a kind person.
  */
 
+/*
+ 近来骑车的人多了,我希望大家遵守交通规则骑车.
+ このごろ自転車を利用する人が多い、規則を守って乗ってほしい。
+ There are a lot of riders recently riding. I hope them can ride in the traffic rules.
+ */
