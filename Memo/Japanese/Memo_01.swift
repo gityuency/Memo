@@ -242,4 +242,9 @@
  It is due to have a test at 9 tomorrow morning.
  */
 
+/*
+ 我们家一般9点以后就不开电视了.
+ うちでは夜9時以降はテレビをつけないことになている。
+ Our family usually doesn't turn on TV after 9.
+ */
 
