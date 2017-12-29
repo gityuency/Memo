@@ -259,3 +259,10 @@
  このごろ自転車を利用する人が多い、規則を守って乗ってほしい。
  There are a lot of riders recently riding. I hope them can ride in the traffic rules.
  */
+
+/*
+ 希望不要把垃圾扔在这里.
+ こんなところにゴミを捨てないてほしい。
+ I hope not to throw the rubbish here.
+ */
+
