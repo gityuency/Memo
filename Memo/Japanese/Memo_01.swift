@@ -236,4 +236,10 @@
  Minister, we are going to get married this fall. Can you be invited to our wedding ceremony?
  */
 
+/*
+ 定于明天上午9点考试.
+ 明日の朝９時から試験を行うことになています。
+ It is due to have a test at 9 tomorrow morning.
+ */
+
 
