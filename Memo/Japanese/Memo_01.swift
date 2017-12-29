@@ -230,11 +230,6 @@
  Maybe we'll send Mr. Tanaka to china.
  */
 
-/*
- 部长,我们今天秋天要结婚了,可以请您出席我们的结婚典礼吗?
- 部長、実は、今年の秋に結婚することになりました。結婚式に出席していただけないでしょうか？
- Minister, we are going to get married this fall. Can you be invited to our wedding ceremony?
- */
 
 
 
