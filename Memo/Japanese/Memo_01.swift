@@ -266,3 +266,8 @@
  I hope not to throw the rubbish here.
  */
 
+/*
+ 对不起,希望你帮一下忙,可以吗?
+ すみません、ちょっと手伝ってほしいですが。
+ Excuse me, can you help me?
+ */
