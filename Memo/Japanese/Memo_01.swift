@@ -277,3 +277,9 @@
  早く春が来てほしい。
  I hope spring will come early.
  */
+
+/*
+ 希望明天不要下雨.
+ 明日は雨が降らないでほしい。
+ I hope it doesn't rain tomorrow.
+ */
