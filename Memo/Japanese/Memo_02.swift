@@ -13,3 +13,9 @@
  今日は風が騒がしいな。
  Today's wind is really noisy.
  */
+
+/*
+ 当人家问说,最尊敬的人是谁的时候.
+ 尊敬する人は、と聞かれた場合、皆んなは何と答えるだろうか。
+ When someone asked who is your most respectful person.
+ */
