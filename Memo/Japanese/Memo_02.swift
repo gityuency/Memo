@@ -33,3 +33,16 @@
  There are a lot of expensive shops here, this one is cheap.
  */
 
+/*
+ 终于,课程结束了.
+ いよいよ、レッスンが終わりました。
+ Finally,the course ended.
+ */
+
+
+
+
+
+
+
+
