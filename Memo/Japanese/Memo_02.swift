@@ -39,6 +39,16 @@
  Finally,the course ended.
  */
 
+/*
+ 我属于那种相比之下不太爱挑剔的人.
+ 私はどちらかといえば、好き嫌いはあまりないほうだ。
+ I belong to those who are less choosy than I do.
+ */
+
+
+
+
+
 
 
 
