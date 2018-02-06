@@ -51,6 +51,14 @@
  This street is bustling in our country.
  */
 
+/*
+ 你是边吃饭边喝酒吗?
+ 嗯,也不总是这样,但我也算的上是能喝的.
+ 食事しながらお酒を飲みますか。
+ そうですね、いつもではありませんが、どちらかといえば、飲むほうですね。
+ Are you eating while drinking?
+ Well, not always, but I can drink very much.
+ */
 
 
 
