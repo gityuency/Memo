@@ -45,8 +45,11 @@
  I belong to those who are less choosy than I do.
  */
 
-
-
+/*
+ 在我们国家这条街还算是热闹的.
+ この町は私の国では何方かと言えば、賑やかなほうです。
+ This street is bustling in our country.
+ */
 
 
 
