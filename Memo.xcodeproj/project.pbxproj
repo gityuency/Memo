@@ -48,7 +48,6 @@
 		1CC435BE1FF4F29300DE29A9 /* Swift构造函数关系.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */; };
 		1CC435C01FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */; };
 		1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD2DE641FFB6E1000E85812 /* Memo_02.swift */; };
-		B046257E223F4A9400DE91EB /* 邪恶小法师.mindnode in Resources */ = {isa = PBXBuildFile; fileRef = B046257D223F4A9300DE91EB /* 邪恶小法师.mindnode */; };
 		B0462583223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0462582223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift */; };
 		B0462585223F898400DE91EB /* MyMemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0462584223F898400DE91EB /* MyMemo.swift */; };
 /* End PBXBuildFile section */
@@ -97,7 +96,6 @@
 		1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift构造函数关系.png"; sourceTree = "<group>"; };
 		1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift 子类构造函数继承原则.png"; sourceTree = "<group>"; };
 		1CD2DE641FFB6E1000E85812 /* Memo_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_02.swift; sourceTree = "<group>"; };
-		B046257D223F4A9300DE91EB /* 邪恶小法师.mindnode */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "邪恶小法师.mindnode"; sourceTree = "<group>"; };
 		B0462582223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level_11_Unit_1_job_interviews.swift; sourceTree = "<group>"; };
 		B0462584223F898400DE91EB /* MyMemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -231,7 +229,6 @@
 		B046257C223F49CA00DE91EB /* Relationship */ = {
 			isa = PBXGroup;
 			children = (
-				B046257D223F4A9300DE91EB /* 邪恶小法师.mindnode */,
 			);
 			path = Relationship;
 			sourceTree = "<group>";
@@ -306,7 +303,6 @@
 			files = (
 				1CC435411FF2567A00DE29A9 /* LaunchScreen.storyboard in Resources */,
 				1CC4353E1FF2567A00DE29A9 /* Assets.xcassets in Resources */,
-				B046257E223F4A9400DE91EB /* 邪恶小法师.mindnode in Resources */,
 				1CC435B41FF4ED2E00DE29A9 /* Swift构造函数.png in Resources */,
 				1CC435BD1FF4F29300DE29A9 /* 理由.png in Resources */,
 				1CC4353C1FF2567A00DE29A9 /* Main.storyboard in Resources */,
