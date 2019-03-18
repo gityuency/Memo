@@ -49,6 +49,8 @@
 		1CC435C01FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */; };
 		1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD2DE641FFB6E1000E85812 /* Memo_02.swift */; };
 		B046257E223F4A9400DE91EB /* 邪恶小法师.mindnode in Resources */ = {isa = PBXBuildFile; fileRef = B046257D223F4A9300DE91EB /* 邪恶小法师.mindnode */; };
+		B0462583223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0462582223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift */; };
+		B0462585223F898400DE91EB /* MyMemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0462584223F898400DE91EB /* MyMemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -96,6 +98,8 @@
 		1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift 子类构造函数继承原则.png"; sourceTree = "<group>"; };
 		1CD2DE641FFB6E1000E85812 /* Memo_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_02.swift; sourceTree = "<group>"; };
 		B046257D223F4A9300DE91EB /* 邪恶小法师.mindnode */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "邪恶小法师.mindnode"; sourceTree = "<group>"; };
+		B0462582223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level_11_Unit_1_job_interviews.swift; sourceTree = "<group>"; };
+		B0462584223F898400DE91EB /* MyMemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +136,7 @@
 				1CC435751FF4888900DE29A9 /* Swift */,
 				1CC435741FF4887B00DE29A9 /* Japanese */,
 				B046257C223F49CA00DE91EB /* Relationship */,
+				B046257F223F79EB00DE91EB /* English */,
 				1CC435361FF2567A00DE29A9 /* AppDelegate.swift */,
 				1CC435381FF2567A00DE29A9 /* ViewController.swift */,
 				1CC4353A1FF2567A00DE29A9 /* Main.storyboard */,
@@ -231,6 +236,15 @@
 			path = Relationship;
 			sourceTree = "<group>";
 		};
+		B046257F223F79EB00DE91EB /* English */ = {
+			isa = PBXGroup;
+			children = (
+				B0462584223F898400DE91EB /* MyMemo.swift */,
+				B0462582223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift */,
+			);
+			path = English;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -259,7 +273,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0910;
 				LastUpgradeCheck = 0910;
-				ORGANIZATIONNAME = sunny;
+				ORGANIZATIONNAME = "become into an evil";
 				TargetAttributes = {
 					1CC435321FF2567A00DE29A9 = {
 						CreatedOnToolsVersion = 9.1;
@@ -329,12 +343,14 @@
 				1CC4359F1FF4D09000DE29A9 /* CloserRecicleViewController.swift in Sources */,
 				1CC435391FF2567A00DE29A9 /* ViewController.swift in Sources */,
 				1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */,
+				B0462585223F898400DE91EB /* MyMemo.swift in Sources */,
 				1CC4358A1FF4A19200DE29A9 /* CloserViewController_2.swift in Sources */,
 				1CC435A31FF4D21D00DE29A9 /* DIViewController.swift in Sources */,
 				1CC435861FF494C700DE29A9 /* CloserViewController.swift in Sources */,
 				1CC435371FF2567A00DE29A9 /* AppDelegate.swift in Sources */,
 				1CC435841FF4947900DE29A9 /* UIView+Extension.swift in Sources */,
 				1CC435B81FF4EDCF00DE29A9 /* Son.swift in Sources */,
+				B0462583223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift in Sources */,
 				1CC435821FF4947900DE29A9 /* UIColor+Extension.swift in Sources */,
 				1CC4358E1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift in Sources */,
 				1CC435951FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift in Sources */,
