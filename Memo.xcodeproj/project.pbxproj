@@ -15,6 +15,39 @@
 		1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435481FF256F700DE29A9 /* Memo_01.swift */; };
 		1CC4354D1FF39E1C00DE29A9 /* HomeWork_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */; };
 		1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD2DE641FFB6E1000E85812 /* Memo_02.swift */; };
+		1CC435801FF4947900DE29A9 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357B1FF4947900DE29A9 /* Bundle+Extension.swift */; };
+		1CC435811FF4947900DE29A9 /* PrintConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357C1FF4947900DE29A9 /* PrintConfig.swift */; };
+		1CC435821FF4947900DE29A9 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357D1FF4947900DE29A9 /* UIColor+Extension.swift */; };
+		1CC435831FF4947900DE29A9 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357E1FF4947900DE29A9 /* UIImage+Extension.swift */; };
+		1CC435841FF4947900DE29A9 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357F1FF4947900DE29A9 /* UIView+Extension.swift */; };
+		1CC435861FF494C700DE29A9 /* CloserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435851FF494C700DE29A9 /* CloserViewController.swift */; };
+		1CC4358A1FF4A19200DE29A9 /* CloserViewController_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435891FF4A19200DE29A9 /* CloserViewController_2.swift */; };
+		1CC4358C1FF4BF9600DE29A9 /* CloserViewController_3_Father.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4358B1FF4BF9600DE29A9 /* CloserViewController_3_Father.swift */; };
+		1CC4358E1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4358D1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift */; };
+		1CC435901FF4C0B700DE29A9 /* CloserViewController_3_Son.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC4358F1FF4C0B700DE29A9 /* CloserViewController_3_Son.xib */; };
+		1CC435921FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435911FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib */; };
+		1CC435951FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435931FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift */; };
+		1CC435961FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435941FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib */; };
+		1CC435991FF4CAA400DE29A9 /* CloserViewController_4_Son.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435971FF4CAA400DE29A9 /* CloserViewController_4_Son.swift */; };
+		1CC4359A1FF4CAA400DE29A9 /* CloserViewController_4_Son.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435981FF4CAA400DE29A9 /* CloserViewController_4_Son.xib */; };
+		1CC4359C1FF4CD9100DE29A9 /* CloserEscapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4359B1FF4CD9100DE29A9 /* CloserEscapeViewController.swift */; };
+		1CC4359F1FF4D09000DE29A9 /* CloserRecicleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4359D1FF4D09000DE29A9 /* CloserRecicleViewController.swift */; };
+		1CC435A01FF4D09000DE29A9 /* CloserRecicleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CC4359E1FF4D09000DE29A9 /* CloserRecicleViewController.xib */; };
+		1CC435A31FF4D21D00DE29A9 /* DIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435A21FF4D21D00DE29A9 /* DIViewController.swift */; };
+		1CC435A51FF4D38900DE29A9 /* Avatar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435A41FF4D38900DE29A9 /* Avatar.swift */; };
+		1CC435A71FF4D49A00DE29A9 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435A61FF4D49A00DE29A9 /* User.swift */; };
+		1CC435A91FF4D72D00DE29A9 /* Magician.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435A81FF4D72D00DE29A9 /* Magician.swift */; };
+		1CC435AB1FF4D93000DE29A9 /* Warrior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435AA1FF4D93000DE29A9 /* Warrior.swift */; };
+		1CC435AD1FF4D98B00DE29A9 /* Monster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435AC1FF4D98B00DE29A9 /* Monster.swift */; };
+		1CC435AF1FF4D9F400DE29A9 /* Zombie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435AE1FF4D9F400DE29A9 /* Zombie.swift */; };
+		1CC435B21FF4DA7700DE29A9 /* Swift多态_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435B11FF4DA7700DE29A9 /* Swift多态_1.png */; };
+		1CC435B41FF4ED2E00DE29A9 /* Swift构造函数.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435B31FF4ED2E00DE29A9 /* Swift构造函数.png */; };
+		1CC435B61FF4EDC800DE29A9 /* Father.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435B51FF4EDC800DE29A9 /* Father.swift */; };
+		1CC435B81FF4EDCF00DE29A9 /* Son.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435B71FF4EDCF00DE29A9 /* Son.swift */; };
+		1CC435BA1FF4EECB00DE29A9 /* Swift_DI_Con_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435B91FF4EECB00DE29A9 /* Swift_DI_Con_ViewController.swift */; };
+		1CC435BD1FF4F29300DE29A9 /* 理由.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BB1FF4F29200DE29A9 /* 理由.png */; };
+		1CC435BE1FF4F29300DE29A9 /* Swift构造函数关系.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */; };
+		1CC435C01FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +60,43 @@
 		1CC435421FF2567A00DE29A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1CC435481FF256F700DE29A9 /* Memo_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_01.swift; sourceTree = "<group>"; };
 		1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork_01.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		1CD2DE641FFB6E1000E85812 /* Memo_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_02.swift; sourceTree = "<group>"; };
+=======
+		1CC4357B1FF4947900DE29A9 /* Bundle+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle+Extension.swift"; sourceTree = "<group>"; };
+		1CC4357C1FF4947900DE29A9 /* PrintConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrintConfig.swift; sourceTree = "<group>"; };
+		1CC4357D1FF4947900DE29A9 /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		1CC4357E1FF4947900DE29A9 /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
+		1CC4357F1FF4947900DE29A9 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		1CC435851FF494C700DE29A9 /* CloserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController.swift; sourceTree = "<group>"; };
+		1CC435891FF4A19200DE29A9 /* CloserViewController_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_2.swift; sourceTree = "<group>"; };
+		1CC4358B1FF4BF9600DE29A9 /* CloserViewController_3_Father.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_3_Father.swift; sourceTree = "<group>"; };
+		1CC4358D1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_3_Son.swift; sourceTree = "<group>"; };
+		1CC4358F1FF4C0B700DE29A9 /* CloserViewController_3_Son.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserViewController_3_Son.xib; sourceTree = "<group>"; };
+		1CC435911FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserViewController_3_Father.xib; sourceTree = "<group>"; };
+		1CC435931FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_4_Father.swift; sourceTree = "<group>"; };
+		1CC435941FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserViewController_4_Father.xib; sourceTree = "<group>"; };
+		1CC435971FF4CAA400DE29A9 /* CloserViewController_4_Son.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserViewController_4_Son.swift; sourceTree = "<group>"; };
+		1CC435981FF4CAA400DE29A9 /* CloserViewController_4_Son.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserViewController_4_Son.xib; sourceTree = "<group>"; };
+		1CC4359B1FF4CD9100DE29A9 /* CloserEscapeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserEscapeViewController.swift; sourceTree = "<group>"; };
+		1CC4359D1FF4D09000DE29A9 /* CloserRecicleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloserRecicleViewController.swift; sourceTree = "<group>"; };
+		1CC4359E1FF4D09000DE29A9 /* CloserRecicleViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CloserRecicleViewController.xib; sourceTree = "<group>"; };
+		1CC435A21FF4D21D00DE29A9 /* DIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIViewController.swift; sourceTree = "<group>"; };
+		1CC435A41FF4D38900DE29A9 /* Avatar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avatar.swift; sourceTree = "<group>"; };
+		1CC435A61FF4D49A00DE29A9 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		1CC435A81FF4D72D00DE29A9 /* Magician.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magician.swift; sourceTree = "<group>"; };
+		1CC435AA1FF4D93000DE29A9 /* Warrior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Warrior.swift; sourceTree = "<group>"; };
+		1CC435AC1FF4D98B00DE29A9 /* Monster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Monster.swift; sourceTree = "<group>"; };
+		1CC435AE1FF4D9F400DE29A9 /* Zombie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zombie.swift; sourceTree = "<group>"; };
+		1CC435B11FF4DA7700DE29A9 /* Swift多态_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift多态_1.png"; sourceTree = "<group>"; };
+		1CC435B31FF4ED2E00DE29A9 /* Swift构造函数.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift构造函数.png"; sourceTree = "<group>"; };
+		1CC435B51FF4EDC800DE29A9 /* Father.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Father.swift; sourceTree = "<group>"; };
+		1CC435B71FF4EDCF00DE29A9 /* Son.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Son.swift; sourceTree = "<group>"; };
+		1CC435B91FF4EECB00DE29A9 /* Swift_DI_Con_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_DI_Con_ViewController.swift; sourceTree = "<group>"; };
+		1CC435BB1FF4F29200DE29A9 /* 理由.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "理由.png"; sourceTree = "<group>"; };
+		1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift构造函数关系.png"; sourceTree = "<group>"; };
+		1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift 子类构造函数继承原则.png"; sourceTree = "<group>"; };
+>>>>>>> b02a9ff545e73e54c8f6cab33b8b0767793a93af
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +129,7 @@
 		1CC435351FF2567A00DE29A9 /* Memo */ = {
 			isa = PBXGroup;
 			children = (
+				1CC4357A1FF4947900DE29A9 /* Tools */,
 				1CC435751FF4888900DE29A9 /* Swift */,
 				1CC435741FF4887B00DE29A9 /* Japanese */,
 				1CC435361FF2567A00DE29A9 /* AppDelegate.swift */,
@@ -85,8 +155,72 @@
 		1CC435751FF4888900DE29A9 /* Swift */ = {
 			isa = PBXGroup;
 			children = (
+				1CC435A11FF4D1FA00DE29A9 /* DesignatedInitializer */,
+				1CC435881FF4960600DE29A9 /* CloserViewController */,
 			);
 			path = Swift;
+			sourceTree = "<group>";
+		};
+		1CC4357A1FF4947900DE29A9 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				1CC4357B1FF4947900DE29A9 /* Bundle+Extension.swift */,
+				1CC4357C1FF4947900DE29A9 /* PrintConfig.swift */,
+				1CC4357D1FF4947900DE29A9 /* UIColor+Extension.swift */,
+				1CC4357E1FF4947900DE29A9 /* UIImage+Extension.swift */,
+				1CC4357F1FF4947900DE29A9 /* UIView+Extension.swift */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		1CC435881FF4960600DE29A9 /* CloserViewController */ = {
+			isa = PBXGroup;
+			children = (
+				1CC435851FF494C700DE29A9 /* CloserViewController.swift */,
+				1CC435891FF4A19200DE29A9 /* CloserViewController_2.swift */,
+				1CC4358B1FF4BF9600DE29A9 /* CloserViewController_3_Father.swift */,
+				1CC435911FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib */,
+				1CC4358D1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift */,
+				1CC4358F1FF4C0B700DE29A9 /* CloserViewController_3_Son.xib */,
+				1CC4359B1FF4CD9100DE29A9 /* CloserEscapeViewController.swift */,
+				1CC435931FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift */,
+				1CC435941FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib */,
+				1CC435971FF4CAA400DE29A9 /* CloserViewController_4_Son.swift */,
+				1CC435981FF4CAA400DE29A9 /* CloserViewController_4_Son.xib */,
+				1CC4359D1FF4D09000DE29A9 /* CloserRecicleViewController.swift */,
+				1CC4359E1FF4D09000DE29A9 /* CloserRecicleViewController.xib */,
+			);
+			path = CloserViewController;
+			sourceTree = "<group>";
+		};
+		1CC435A11FF4D1FA00DE29A9 /* DesignatedInitializer */ = {
+			isa = PBXGroup;
+			children = (
+				1CC435B01FF4DA6100DE29A9 /* Images */,
+				1CC435A21FF4D21D00DE29A9 /* DIViewController.swift */,
+				1CC435A41FF4D38900DE29A9 /* Avatar.swift */,
+				1CC435A61FF4D49A00DE29A9 /* User.swift */,
+				1CC435A81FF4D72D00DE29A9 /* Magician.swift */,
+				1CC435AA1FF4D93000DE29A9 /* Warrior.swift */,
+				1CC435AC1FF4D98B00DE29A9 /* Monster.swift */,
+				1CC435AE1FF4D9F400DE29A9 /* Zombie.swift */,
+				1CC435B91FF4EECB00DE29A9 /* Swift_DI_Con_ViewController.swift */,
+				1CC435B51FF4EDC800DE29A9 /* Father.swift */,
+				1CC435B71FF4EDCF00DE29A9 /* Son.swift */,
+			);
+			path = DesignatedInitializer;
+			sourceTree = "<group>";
+		};
+		1CC435B01FF4DA6100DE29A9 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				1CC435B11FF4DA7700DE29A9 /* Swift多态_1.png */,
+				1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */,
+				1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */,
+				1CC435BB1FF4F29200DE29A9 /* 理由.png */,
+				1CC435B31FF4ED2E00DE29A9 /* Swift构造函数.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,7 +284,17 @@
 			files = (
 				1CC435411FF2567A00DE29A9 /* LaunchScreen.storyboard in Resources */,
 				1CC4353E1FF2567A00DE29A9 /* Assets.xcassets in Resources */,
+				1CC435B41FF4ED2E00DE29A9 /* Swift构造函数.png in Resources */,
+				1CC435BD1FF4F29300DE29A9 /* 理由.png in Resources */,
 				1CC4353C1FF2567A00DE29A9 /* Main.storyboard in Resources */,
+				1CC435961FF4CA7D00DE29A9 /* CloserViewController_4_Father.xib in Resources */,
+				1CC4359A1FF4CAA400DE29A9 /* CloserViewController_4_Son.xib in Resources */,
+				1CC435901FF4C0B700DE29A9 /* CloserViewController_3_Son.xib in Resources */,
+				1CC435A01FF4D09000DE29A9 /* CloserRecicleViewController.xib in Resources */,
+				1CC435921FF4C1DA00DE29A9 /* CloserViewController_3_Father.xib in Resources */,
+				1CC435BE1FF4F29300DE29A9 /* Swift构造函数关系.png in Resources */,
+				1CC435B21FF4DA7700DE29A9 /* Swift多态_1.png in Resources */,
+				1CC435C01FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -161,11 +305,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CC435801FF4947900DE29A9 /* Bundle+Extension.swift in Sources */,
 				1CC4354D1FF39E1C00DE29A9 /* HomeWork_01.swift in Sources */,
+				1CC435AD1FF4D98B00DE29A9 /* Monster.swift in Sources */,
+				1CC435AB1FF4D93000DE29A9 /* Warrior.swift in Sources */,
+				1CC435BA1FF4EECB00DE29A9 /* Swift_DI_Con_ViewController.swift in Sources */,
+				1CC435831FF4947900DE29A9 /* UIImage+Extension.swift in Sources */,
+				1CC435811FF4947900DE29A9 /* PrintConfig.swift in Sources */,
+				1CC435991FF4CAA400DE29A9 /* CloserViewController_4_Son.swift in Sources */,
+				1CC4358C1FF4BF9600DE29A9 /* CloserViewController_3_Father.swift in Sources */,
+				1CC4359C1FF4CD9100DE29A9 /* CloserEscapeViewController.swift in Sources */,
 				1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */,
+				1CC435A71FF4D49A00DE29A9 /* User.swift in Sources */,
+				1CC4359F1FF4D09000DE29A9 /* CloserRecicleViewController.swift in Sources */,
 				1CC435391FF2567A00DE29A9 /* ViewController.swift in Sources */,
+<<<<<<< HEAD
 				1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */,
+=======
+				1CC4358A1FF4A19200DE29A9 /* CloserViewController_2.swift in Sources */,
+				1CC435A31FF4D21D00DE29A9 /* DIViewController.swift in Sources */,
+				1CC435861FF494C700DE29A9 /* CloserViewController.swift in Sources */,
+>>>>>>> b02a9ff545e73e54c8f6cab33b8b0767793a93af
 				1CC435371FF2567A00DE29A9 /* AppDelegate.swift in Sources */,
+				1CC435841FF4947900DE29A9 /* UIView+Extension.swift in Sources */,
+				1CC435B81FF4EDCF00DE29A9 /* Son.swift in Sources */,
+				1CC435821FF4947900DE29A9 /* UIColor+Extension.swift in Sources */,
+				1CC4358E1FF4BFA500DE29A9 /* CloserViewController_3_Son.swift in Sources */,
+				1CC435951FF4CA7D00DE29A9 /* CloserViewController_4_Father.swift in Sources */,
+				1CC435AF1FF4D9F400DE29A9 /* Zombie.swift in Sources */,
+				1CC435B61FF4EDC800DE29A9 /* Father.swift in Sources */,
+				1CC435A51FF4D38900DE29A9 /* Avatar.swift in Sources */,
+				1CC435A91FF4D72D00DE29A9 /* Magician.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,7 +474,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Memo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuency.Memo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -319,7 +489,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Memo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuency.Memo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
