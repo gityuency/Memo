@@ -14,7 +14,6 @@
 		1CC435411FF2567A00DE29A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CC4353F1FF2567A00DE29A9 /* LaunchScreen.storyboard */; };
 		1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC435481FF256F700DE29A9 /* Memo_01.swift */; };
 		1CC4354D1FF39E1C00DE29A9 /* HomeWork_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */; };
-		1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD2DE641FFB6E1000E85812 /* Memo_02.swift */; };
 		1CC435801FF4947900DE29A9 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357B1FF4947900DE29A9 /* Bundle+Extension.swift */; };
 		1CC435811FF4947900DE29A9 /* PrintConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357C1FF4947900DE29A9 /* PrintConfig.swift */; };
 		1CC435821FF4947900DE29A9 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC4357D1FF4947900DE29A9 /* UIColor+Extension.swift */; };
@@ -48,6 +47,7 @@
 		1CC435BD1FF4F29300DE29A9 /* 理由.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BB1FF4F29200DE29A9 /* 理由.png */; };
 		1CC435BE1FF4F29300DE29A9 /* Swift构造函数关系.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */; };
 		1CC435C01FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */; };
+		1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD2DE641FFB6E1000E85812 /* Memo_02.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,9 +60,6 @@
 		1CC435421FF2567A00DE29A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1CC435481FF256F700DE29A9 /* Memo_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_01.swift; sourceTree = "<group>"; };
 		1CC4354C1FF39E1C00DE29A9 /* HomeWork_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork_01.swift; sourceTree = "<group>"; };
-<<<<<<< HEAD
-		1CD2DE641FFB6E1000E85812 /* Memo_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_02.swift; sourceTree = "<group>"; };
-=======
 		1CC4357B1FF4947900DE29A9 /* Bundle+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle+Extension.swift"; sourceTree = "<group>"; };
 		1CC4357C1FF4947900DE29A9 /* PrintConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrintConfig.swift; sourceTree = "<group>"; };
 		1CC4357D1FF4947900DE29A9 /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
@@ -96,7 +93,7 @@
 		1CC435BB1FF4F29200DE29A9 /* 理由.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "理由.png"; sourceTree = "<group>"; };
 		1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift构造函数关系.png"; sourceTree = "<group>"; };
 		1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift 子类构造函数继承原则.png"; sourceTree = "<group>"; };
->>>>>>> b02a9ff545e73e54c8f6cab33b8b0767793a93af
+		1CD2DE641FFB6E1000E85812 /* Memo_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_02.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +129,7 @@
 				1CC4357A1FF4947900DE29A9 /* Tools */,
 				1CC435751FF4888900DE29A9 /* Swift */,
 				1CC435741FF4887B00DE29A9 /* Japanese */,
+				B046257C223F49CA00DE91EB /* Relationship */,
 				1CC435361FF2567A00DE29A9 /* AppDelegate.swift */,
 				1CC435381FF2567A00DE29A9 /* ViewController.swift */,
 				1CC4353A1FF2567A00DE29A9 /* Main.storyboard */,
@@ -221,6 +219,13 @@
 				1CC435B31FF4ED2E00DE29A9 /* Swift构造函数.png */,
 			);
 			path = Images;
+			sourceTree = "<group>";
+		};
+		B046257C223F49CA00DE91EB /* Relationship */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Relationship;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -319,13 +324,10 @@
 				1CC435A71FF4D49A00DE29A9 /* User.swift in Sources */,
 				1CC4359F1FF4D09000DE29A9 /* CloserRecicleViewController.swift in Sources */,
 				1CC435391FF2567A00DE29A9 /* ViewController.swift in Sources */,
-<<<<<<< HEAD
 				1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */,
-=======
 				1CC4358A1FF4A19200DE29A9 /* CloserViewController_2.swift in Sources */,
 				1CC435A31FF4D21D00DE29A9 /* DIViewController.swift in Sources */,
 				1CC435861FF494C700DE29A9 /* CloserViewController.swift in Sources */,
->>>>>>> b02a9ff545e73e54c8f6cab33b8b0767793a93af
 				1CC435371FF2567A00DE29A9 /* AppDelegate.swift in Sources */,
 				1CC435841FF4947900DE29A9 /* UIView+Extension.swift in Sources */,
 				1CC435B81FF4EDCF00DE29A9 /* Son.swift in Sources */,
