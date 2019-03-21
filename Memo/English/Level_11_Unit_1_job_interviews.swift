@@ -724,3 +724,119 @@
  I think that I'm a good fit  for this position.
  
  */
+
+
+
+/*
+ I was promoted to director last year.
+ 我去年被提升为主管。
+ 
+ She has a solid background in math.
+ 她的数学很扎实。
+ 
+ He's currently working on an MBA.
+ 他现在在学工商管理硕士课程。
+ 
+ She majored in project management.
+ 她的专业是项目管理。
+ 
+ She majored in project management.
+ 她的专业是项目管理。
+ 
+ They both graduated from Harvard.
+ 他们都是哈佛毕业的
+ 
+ He has extensive experience in management.
+ 他的管理经验很丰富。
+
+ She has a master's degree in design.
+ 她有一个设计硕士学位。
+
+ She's the vice president of operations.
+ 她是运营部副总裁。
+
+ He's the director of HR.
+ 他是人事主管。
+ 
+ I'm applying for the senior designer position.
+ 我申请高级设计师的职位。
+
+ I have an appointment with Ms. Smith.
+ 我和史密斯女士约好见面。
+
+ I'm here to see Ms. Smith.
+ 我来找史密斯女士。
+
+ It's a pleasure to meet you, Ms. Smith.
+ 很荣幸见到你，史密斯女士。
+
+ I appreciate the opportunity to interview today.
+ 我很感谢今天能有面试的机会。
+ 
+ My greatest strength is curiosity.
+ 我的最大优点是好奇心。
+
+ Her technical knowledge is a bit weak.
+ 她的技术知识有点弱。
+ 
+ I've had problems with public speaking.
+ 曾经我的演讲能力不行。
+ 
+ He's an amazing communicator.
+ 他的沟通技巧超强。
+
+ I'm proactive.
+ 我很主动。
+ 
+ My boss needs to be a better listener.
+ 我的老板需要做一个更好的倾听者。
+
+ I had a misunderstanding with a colleague.
+ 我误解了一个同事。
+ 
+ I've had problems with public speaking.
+ 曾经我的演讲能力不行。
+ 
+ I started taking software classes at night.
+ 我在晚上开始上软件课了。
+
+ I love my job, but I'm ready for a new challenge.
+ 我热爱我的工作，但是我准备要迎接新的挑战。
+
+ My greatest strength is my curiosity.
+ 我的最大的优点是我的好奇心。
+
+ I'm very proactive with technical problems.
+ 我对技术问题很有主动性。
+ 
+ I've been in my industry for 10 years.
+ 我已经在这行干了10年了。
+ 
+ Do you have any reservations about me?
+ 你对我有什么疑问吗？
+ 
+ How do you feel about working at IBX?
+ 你对在 IBX 上班感觉怎么样？
+ 
+ What is the biggest challenge for your staff?
+ 你的员工的最大的挑战是什么？
+ 
+ What would I need to do to be successful?
+ 我需要做什么才能成功？
+
+ I'm excited by the possibility of working here.
+ 我对可能会在这里上班感到很激动。
+
+ What are the next steps in the hiring process?
+ 聘用过程的下一步是什么？
+ 
+ When do you think a decision will be made?
+ 您认为什么时候决定会定下来呢？
+ 
+ Could I have one of your business cards?
+ 我能要一张您的名片吗？
+ 
+ Thank you for taking the time to interview me.
+ 感谢您抽时间来面试我。
+
+ */
