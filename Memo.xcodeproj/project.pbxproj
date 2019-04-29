@@ -48,6 +48,7 @@
 		1CC435BE1FF4F29300DE29A9 /* Swift构造函数关系.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */; };
 		1CC435C01FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */; };
 		1CD2DE651FFB6E1000E85812 /* Memo_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD2DE641FFB6E1000E85812 /* Memo_02.swift */; };
+		A4DAE7CE22729C7B00C4F439 /* Apr.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4DAE7CD22729C7B00C4F439 /* Apr.swift */; };
 		B0462583223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0462582223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift */; };
 		B0462585223F898400DE91EB /* MyMemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0462584223F898400DE91EB /* MyMemo.swift */; };
 		B0C7C340225AE13600785B12 /* WeChatOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C7C33F225AE13600785B12 /* WeChatOperation.swift */; };
@@ -98,6 +99,7 @@
 		1CC435BC1FF4F29200DE29A9 /* Swift构造函数关系.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift构造函数关系.png"; sourceTree = "<group>"; };
 		1CC435BF1FF4F34100DE29A9 /* Swift 子类构造函数继承原则.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Swift 子类构造函数继承原则.png"; sourceTree = "<group>"; };
 		1CD2DE641FFB6E1000E85812 /* Memo_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo_02.swift; sourceTree = "<group>"; };
+		A4DAE7CD22729C7B00C4F439 /* Apr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apr.swift; sourceTree = "<group>"; };
 		B0462582223F7A9E00DE91EB /* Level_11_Unit_1_job_interviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level_11_Unit_1_job_interviews.swift; sourceTree = "<group>"; };
 		B0462584223F898400DE91EB /* MyMemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMemo.swift; sourceTree = "<group>"; };
 		B0C7C33F225AE13600785B12 /* WeChatOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeChatOperation.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				1CC435741FF4887B00DE29A9 /* Japanese */,
 				B046257C223F49CA00DE91EB /* Relationship */,
 				B046257F223F79EB00DE91EB /* English */,
+				A4DAE7CC22729C6D00C4F439 /* Translation */,
 				B0C7C33E225AE0E500785B12 /* Chat */,
 				1CC435361FF2567A00DE29A9 /* AppDelegate.swift */,
 				1CC435381FF2567A00DE29A9 /* ViewController.swift */,
@@ -229,6 +232,14 @@
 				1CC435B31FF4ED2E00DE29A9 /* Swift构造函数.png */,
 			);
 			path = Images;
+			sourceTree = "<group>";
+		};
+		A4DAE7CC22729C6D00C4F439 /* Translation */ = {
+			isa = PBXGroup;
+			children = (
+				A4DAE7CD22729C7B00C4F439 /* Apr.swift */,
+			);
+			path = Translation;
 			sourceTree = "<group>";
 		};
 		B046257C223F49CA00DE91EB /* Relationship */ = {
@@ -347,6 +358,7 @@
 				1CC435831FF4947900DE29A9 /* UIImage+Extension.swift in Sources */,
 				1CC435811FF4947900DE29A9 /* PrintConfig.swift in Sources */,
 				1CC435991FF4CAA400DE29A9 /* CloserViewController_4_Son.swift in Sources */,
+				A4DAE7CE22729C7B00C4F439 /* Apr.swift in Sources */,
 				1CC4358C1FF4BF9600DE29A9 /* CloserViewController_3_Father.swift in Sources */,
 				1CC4359C1FF4CD9100DE29A9 /* CloserEscapeViewController.swift in Sources */,
 				1CC435491FF256F700DE29A9 /* Memo_01.swift in Sources */,
