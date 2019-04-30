@@ -8,6 +8,25 @@
 
 
 
+
+
+/*
+ 
+ 2019/4/29
+ 
+ Do friends of the opposite gender distract teenagers, hampering their academic performance? It may seem obvious, and yet it is hard to prove.
+ 
+ 我的翻译:
+  朋友之中的异性除了青少年,在乎学习表现吗? 可能看起来明显,但是却很难证明.
+ 
+ hampering: 妨碍
+ 
+ 答案
+ 交异性朋友会使青少年分心，影响他们的学业吗？这个问题看似显而易见，但其实很难证实。
+ 
+ */
+
+
 /*
  
  2019/4/28
