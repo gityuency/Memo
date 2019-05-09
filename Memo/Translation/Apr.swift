@@ -8,6 +8,71 @@
 
 
 
+
+/*
+ 
+ 2019/5/9
+ 
+ 0509
+ George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death.
+
+ 我的翻译
+
+ George Annas 是波士顿大学健康法律部门的部长,  只要一个医生把药物用于医学, 这个医生没有做任何非法的事情, 即使让病人使用药物安乐死. 都处于他的管理之下.
+ 
+ 
+ */
+
+
+/*
+ 
+ 2019/5/8
+ 
+ For example, they do not compensate for gross social inequality, and thus do not tell how able an underprivileged youngster might have been had he grown up under more favorable circumstances.
+
+ 我的翻译:
+ 举个例子,他们对社交不平等没有补偿,因此更不要说弱势的年轻人可以在有利的环境下成长.
+ 
+ 今日译文
+ 比如说，他们并不能弥补明显的社会不公，所以也就说不清如果一个贫穷的年轻人在更加合适的条件下长大，他会变得多么的能干。
+ 
+ 
+ */
+
+
+/*
+ 
+ 2019/5/7
+ 
+ My mother and I were alike in one crucial respect: We may have been Russian by birth, but we were English in spirit. She was intensely reserved and private, and seldom showed what she was feeling. I am the same way, which made it hard for me to tell her how much she meant to me.
+ 
+ 我的翻译:
+ 我的妈妈和我都在某些方面很像: 我们都在俄罗斯出生,但是我们确是英国人,她比较保守,她几乎不表达她的感受,我也如此,所以我很难告诉她她对我有什么打算.
+ 
+ 答案:
+ 我和母亲有个非常重要的相似点之处：我们都是俄罗斯血统，但骨子里是英国人。母亲非常保守和注重隐私，很少表达出她的内心感受。这点我和她一样，所以对我来说告诉母亲她对我很重要比较困难。
+ 
+ 
+ */
+
+
+
+/*
+ 2019/5/6
+ 
+ Learning how to get along with and be around others is an important life skill. Even in our increasingly digital and remote world, we want our kids to be able to work in groups and communicate with a variety of people. Watching your child sit quietly at home understandably evokes worry that he will be left behind socially, academically and even romantically.
+ 
+ 
+ 学习如何与别人愉快相处是一个重要的生活技能. 即使是在增长的数字远程时代. 我们希望自己的孩子能够在小组工作并且和各种人交流,看到你的孩子安静地坐在家里,他将会在社交上落后     有素养甚至浪漫.
+ 
+ 
+ 今日译文
+ 学会如何与他人友好相处、懂得人情世故是一项重要的生活技能。即使在数字及远程技术不断发展的今天，我们也希望我们的孩子能与他人进行团队合作、与不同的人打交道。看到孩子安静地宅在家里，自然会让你担心孩子将来会与社会脱节、影响学业，甚至影响婚恋发展。
+ 
+ 
+ */
+
+
 /*
  2019/5/5
 
