@@ -10,6 +10,66 @@
 
 
 /*
+
+ 2019/5/13
+ 
+ This kind of support, like all government support, requires decisions about the appropriate recipients of funds. Decisions based on utility as opposed to lack of utility are straightforward. But decision among projects none of which has immediate utility is more difficult.
+ 
+ 我的翻译
+ 这样的帮助,就像所有政府的帮助,需要合适的资金才行. 做出决定是基于效果的, 但是决定哪个项目能出效果才是最困难的.
+ 
+ 
+ */
+
+
+
+/*
+ 
+ 2019/5/12
+
+ 0512翻译每日一练
+ Changes in the social structure may indirectly affect juvenile crime rates. For example, changes in the economy that lead to fewer job opportunities for youth and rising unemployment in general make gainful employment increasingly difficult to obtain.
+ 
+ 我的翻译
+ 社交结构的改变不会直接提高犯罪几率。举个例子，经济上的改变会导致年轻人就业机会减少，并且在总体上失业上升，难以获得就业机会。
+ 
+ 0512今日译文
+ 社会结构的变化也会间接地影响青少年的犯罪率。比如经济结构的变化通常会使青年的就业机会更少，失业率增加，这就会使得赚钱的工作越来越难找。
+ 
+ */
+
+
+
+/*
+ 
+ 2019/5/11
+ 
+ 0511每日一练
+ Behaviorists suggest that the child who is raised in an environment where there are many stimuli which develop his or her capacity for appropriate responses will experience greater intellectual development.
+ 
+ 我的翻译:
+ 行为表明，孩子在刺激性的环境下成长，容易锻炼出他对事物适当的反应，并且有助于智力发展。
+ 
+ 今日译文
+ 行为主义者认为，一个孩子在充满刺激因素的环境下长大，并且这些刺激因素能够培养其做出适当反应的能力，那么他的智力水平会发育得比较好。
+ 
+ */
+
+
+
+/*
+ 
+ 2019/5/10
+
+ The beauty of a woman is not in the clothes she wears, the figure that she carries, or the way she combs her hair. The beauty of a woman must be seen from in her eyes, because that is the doorway to her heart, the place where love resides.
+ 
+ 我的翻译
+ 女人的美丽不在于她穿什么衣服,戴什么样的首饰,染什么样的头发,女人的美丽一定是在她的眼睛里,因为那是通向心灵的大门,爱的地方.
+ 
+ */
+
+
+/*
  
  2019/5/9
  
@@ -17,9 +77,11 @@
  George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death.
 
  我的翻译
-
  George Annas 是波士顿大学健康法律部门的部长,  只要一个医生把药物用于医学, 这个医生没有做任何非法的事情, 即使让病人使用药物安乐死. 都处于他的管理之下.
  
+ 答案
+ 今日译文
+ 波士顿大学健康法律系主任乔治·亚那认为，只要医生是出于合理的医疗目的开药，那么即使病人因为服用该药而加速死亡，医生的行为也没有违法。
  
  */
 
