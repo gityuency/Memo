@@ -8,6 +8,61 @@
 
 
 
+/*
+ 
+ 2019/5/16
+ 
+ 
+ There is this difference between happiness and wisdom: he who thinks himself the happiest man really is so; but he who thinks himself the wisest is generally the greatest fool.
+ 
+ 我的翻译:
+ 这是智慧和幸福的区别: 认为自己很幸福的人,他就是幸福的; 认为自己最聪明的人,基本上就是沙雕.
+ 
+ 
+ 
+ 
+ 
+ */
+
+
+
+
+
+
+/*
+ 
+ 2019/5/15
+ 
+ 0515
+ When we honestly ask ourselves which person in our lives means the most to us, we often find that it is those who, instead of giving much advice, solution, or cures, have chosen rather to share our pain and touch our wounds with a gentle and tender hand.
+ 
+ 我的翻译
+ 当我们认真地问自己谁才是生命中最重要的人,我们经常认为是那些理解痛苦,抚慰创伤的人, 而不是那些给了很多建议,方案,忠告的人.
+ 
+ 
+ 今日译文
+ 当我们开诚布公地问自己，哪些人对我们的生活意义最大时，我们常常会发现，不是那些给我们很多建议、答案或者对策的人，而是那些选择分担我们的痛苦，用柔和而亲切的手抚慰我们伤口的人。
+ 
+ 
+ */
+
+
+
+/*
+ 2019/5/14
+ 
+ This near-tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-80, when they also almost tripled. Both previous shocks resulted in double-digit inflation and global economic decline.
+ 
+ 我的翻译
+ 这次石油价格增长让人想起1973年那次可怕的石油冲击.价格一路飙升,在1979-80年之间, 价格也几乎疯长. 之前的这两次冲击造成了互相影响和全球经济下滑.
+ 
+ 答案
+ 
+ 今日译文
+ 这次油价涨了将近三倍，这唤起了人们对1973年油价暴涨的可怕记忆，当时油价涨了四倍，而1979到1980年的油价也涨了近三倍。前两次的油价暴涨都造成了两位数的通货膨胀率和全球性的经济衰退。
+ 
+ */
+
 
 /*
 
@@ -17,7 +72,9 @@
  
  我的翻译
  这样的帮助,就像所有政府的帮助,需要合适的资金才行. 做出决定是基于效果的, 但是决定哪个项目能出效果才是最困难的.
- 
+
+ 答案
+ 这种支持如同政府的支持一样，需要决定谁适合作为基金的受益人。这最终要由效益来决定，可是在那些都看不到近期效益的项目中来决定谁是受益人，就更难了。
  
  */
 
